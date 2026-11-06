@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.vscode/
+dataset/raw/
+dataset/processed/test_runs/
+reports/
+notebooks/
+dataset/processed/milling_features.csv
+dataset/processed/milling_metadata.csv
+dataset/processed/test_run.csv
